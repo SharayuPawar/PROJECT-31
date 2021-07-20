@@ -16,7 +16,7 @@ class Plinko {
 
 
         
-        World.add(world,this.body);
+        
         var pos = this.body.position;
         var angle = this.body.angle;
 
